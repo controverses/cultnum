@@ -13,12 +13,11 @@
   <body>
 
     <header>
-
-      {% if site.logo %}
+    
+      <div class="container">
+        {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-      
-      <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
