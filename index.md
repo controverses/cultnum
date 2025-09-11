@@ -37,7 +37,7 @@
     <tr>
       <td style="text-align: left">6</td>
       <td style="text-align: left">23 octobre</td>
-      <td style="text-align: left">actualité des controverses de l'IA</td>
+      <td style="text-align: left">actualité des controverses de l'ia</td>
     </tr>
     <tr>
       <td style="text-align: left">7</td>
