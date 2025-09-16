@@ -1,7 +1,5 @@
 <h2>syllabus</h2>
 
-
-
 <h2>programme</h2>
 
 <table>
@@ -53,7 +51,7 @@
       <td style="text-align: left">13 novembre</td>
       <td style="text-align: left">salut la commu ! créateur·ices, contenus et cultures</td>
     </tr>
-
-<h2>évaluation</h2>
   </tbody>
 </table>
+
+<h2>évaluation</h2>
