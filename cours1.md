@@ -3,4 +3,4 @@
 <p></p>
 <h2>bibliographie</h2>
 <p></p>
-<p>lien vers les références bibliographiques :</p>
+<p>accès aux <a href="https://drive.google.com/drive/folders/1Wp6j0l3FYQhE8xSWJkpRME3oIZhcI8if">références bibliographiques du premier cours</a></p>
