@@ -1,6 +1,6 @@
 <h2>syllabus</h2>
 
-| <img src="/media/cardon_culture_numerique.jpg" height="100px"> | syllabus |
+<img src="/media/cardon_culture_numerique.jpg" height="100px"> essai
 
 <h2>programme</h2>
 
