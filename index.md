@@ -1,6 +1,10 @@
 <h2>syllabus</h2>
 
 <table>
+  <colgroup>
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 85%;">
+  </colgroup>
   <tbody>
     <tr>
       <td style="text-align: left"><img src="./media/cardon_culture_numerique.jpg" /></td>
