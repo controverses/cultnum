@@ -1,6 +1,13 @@
 <h2>syllabus</h2>
 
-| <img src="./media/cardon_culture_numerique.jpg" width="164" /> | ce cours de culture numérique, inspiré de l'ouvrage de dominique cardon paru en 2019, a été conçu pour vous aider à décoder les grands enjeux du numérique en mobilisant tour à tour des connaissances en sociologie, anthropologie et histoire des sciences et des techniques ; en déployant une perspective sociotechnique, il propose d'analyser la co-construction des innovations technologiques et numériques et des transformations sociales et politiques des mondes que nous habitons, autour de huit grands thèmes | 
+<table>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><img src="./media/cardon_culture_numerique.jpg" width="164" /></td>
+      <td style="text-align: left">ce cours de culture numérique, inspiré de l'ouvrage de dominique cardon paru en 2019, a été conçu pour vous aider à décoder les grands enjeux du numérique en mobilisant tour à tour des connaissances en sociologie, anthropologie et histoire des sciences et des techniques ; en déployant une perspective sociotechnique, il propose d'analyser la co-construction des innovations technologiques et numériques et des transformations sociales et politiques des mondes que nous habitons, autour de huit grands thèmes</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2>programme</h2>
 
