@@ -1,7 +1,9 @@
 # 1 | internet, une infrastructure sociotechnique
 
-![](/media/cours1.pdf)
-![](/media/scpo.png)
-
+<object data="./media/cours1.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="./media/cours1.pdf">
+        <p>essai</p>
+    </embed>
+</object>
 
 Lien vers les références bibliographiques :
