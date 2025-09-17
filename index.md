@@ -1,4 +1,4 @@
-<h2>syllabus</h2>
+<h1>syllabus</h1>
 
 <table style="width: 100%">
   <colgroup>
@@ -13,7 +13,7 @@
   </tbody>
 </table>
 
-<h2>programme</h2>
+<h1>programme</h1>
 
 <table>
   <thead>
@@ -67,4 +67,6 @@
   </tbody>
 </table>
 
-<h2>évaluation</h2>
+<h1>évaluation</h1>
+
+<p>l'évaluation prendra la forme d'une description et analyse d'un corpus documentaire</p>
