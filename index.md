@@ -8,7 +8,7 @@
   <tbody>
     <tr>
       <td style="vertical-align: top"><img src="./media/cardon_culture_numerique.jpg" /></td>
-      <td style="text-align: left">ce cours de culture numérique, inspiré de l'ouvrage de dominique cardon paru en 2019, a été conçu pour vous aider à décoder les grands enjeux du numérique en mobilisant tour à tour des connaissances en sociologie, anthropologie et histoire des sciences et des techniques ; en déployant une perspective sociotechnique, il propose d'analyser la co-construction des innovations technologiques et numériques et des transformations sociales et politiques des mondes que nous habitons, autour de huit grands thèmes</td>
+      <td style="text-align: left">ce cours de <a href="./leprof">thomas tari</a>, inspiré de l'ouvrage <i>culture numérique</i> de dominique cardon paru en 2019, a été conçu pour vous aider à décoder les grands enjeux du numérique en mobilisant des connaissances en sociologie, anthropologie et histoire des sciences et des techniques ; en déployant une perspective sociotechnique, il propose d'analyser la co-construction des innovations technologiques et numériques et des transformations sociales et politiques des mondes que nous habitons, autour de huit thématiques</td>
     </tr>
   </tbody>
 </table>
@@ -42,7 +42,7 @@
     <tr>
       <td style="text-align: left">4</td>
       <td style="text-align: left">9 octobre</td>
-      <td style="text-align: left">penser le digital labor</td>
+      <td style="text-align: left">penser le <i>digital labor</i></td>
     </tr>
     <tr>
       <td style="text-align: left">5</td>
@@ -69,4 +69,4 @@
 
 <h1>évaluation</h1>
 
-<p>l'évaluation prendra la forme d'une description et analyse d'un corpus documentaire</p>
+<p>l'évaluation prendra la forme d'un examen final sur table de trois heures et consistera en une description sociotechnique d'un corpus documentaire consacré à un enjeu numérique, en mobilisant des notions du cours magistral</p>
