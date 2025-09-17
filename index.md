@@ -1,6 +1,6 @@
 <h2>syllabus</h2>
 
-![](/media/cardon_culture_numerique.jpg)
+![](/media/cardon_culture_numerique.jpg =100x)
 
 <h2>programme</h2>
 
