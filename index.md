@@ -2,8 +2,6 @@
 
 <img src="https://github.com/controverses/cultnum/blob/main/media/cardon_culture_numerique.jpg"> 
 
-essai
-
 <h2>programme</h2>
 
 <table>
