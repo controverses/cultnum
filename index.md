@@ -1,4 +1,4 @@
-<h1>syllabus</h1>
+<h1>syllabus |</h1>
 
 <table style="width: 100%">
   <colgroup>
@@ -13,7 +13,7 @@
   </tbody>
 </table>
 
-<h1>programme</h1>
+<h1>programme |</h1>
 
 <table>
   <thead>
@@ -67,6 +67,6 @@
   </tbody>
 </table>
 
-<h1>évaluation</h1>
+<h1>évaluation |</h1>
 
 <p>l'évaluation prendra la forme d'un examen final sur table de trois heures et consistera en une description sociotechnique d'un corpus documentaire consacré à un enjeu numérique, en mobilisant des notions du cours magistral</p>
