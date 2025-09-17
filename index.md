@@ -1,5 +1,7 @@
 <h2>syllabus</h2>
 
+![](/media/cardon_culture_numerique)
+
 <h2>programme</h2>
 
 <table>
