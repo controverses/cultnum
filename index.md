@@ -69,4 +69,4 @@
 
 <h1>évaluation |</h1>
 
-<p>l'évaluation prendra la forme d'un examen final sur table de trois heures et consistera en une description sociotechnique d'un corpus documentaire consacré à un enjeu numérique, en mobilisant des notions du cours magistral</p>
+<p>l'évaluation prendra la forme d'un examen final sur table de trois heures et consistera en une description sociotechnique d'un corpus documentaire consacré à un enjeu numérique, en mobilisant des notions du cours magistral ; les notes manuscrites ou imprimées sont autorisées</p>
