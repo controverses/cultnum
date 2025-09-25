@@ -1,5 +1,5 @@
 <h1>2 | sociologie du lien hypertexte</h1>
-<!--- <iframe src="./media/cours2.pdf" width="100%" height="640" frameborder="0"></iframe> -->
+<iframe src="./media/cours2.pdf" width="100%" height="640" frameborder="0"></iframe>
 <p></p>
 <h2>ressources |</h2>
 <p></p>
