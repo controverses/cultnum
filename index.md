@@ -22,6 +22,7 @@
       <th style="text-align: left">date</th>
       <th style="text-align: left">séance</th>
     </tr>
+  <span style="color:green">
   </thead>
   <tbody>
     <tr>
@@ -34,6 +35,7 @@
       <td style="text-align: left">25 septembre</td>
       <td style="text-align: left">sociologie du lien hypertexte</td>
     </tr>
+    <span style="color:white">
     <tr>
       <td style="text-align: left">3</td>
       <td style="text-align: left">2 octobre</td>
