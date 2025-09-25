@@ -18,21 +18,21 @@
 <table>
   <thead>
     <tr>
-      <th style="text-align: left" style="color:green">cours</th>
+      <th style="text-align: left">cours</th>
       <th style="text-align: left">date</th>
       <th style="text-align: left">séance</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left" >1</td>
-      <td style="text-align: left">18 septembre</td>
-      <td style="text-align: left">internet, une infrastructure sociotechnique</td>
+      <td style="text-align: left" style="color:greenyellow">1</td>
+      <td style="text-align: left" style="color:greenyellow">18 septembre</td>
+      <td style="text-align: left" style="color:greenyellow">internet, une infrastructure sociotechnique</td>
     </tr>
     <tr>
-      <td style="text-align: left">2</td>
-      <td style="text-align: left">25 septembre</td>
-      <td style="text-align: left">sociologie du lien hypertexte</td>
+      <td style="text-align: left" style="color:greenyellow">2</td>
+      <td style="text-align: left" style="color:greenyellow">25 septembre</td>
+      <td style="text-align: left" style="color:greenyellow">sociologie du lien hypertexte</td>
     </tr>
     <tr>
       <td style="text-align: left">3</td>
