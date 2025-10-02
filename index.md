@@ -27,17 +27,17 @@
     <tr>
       <td style="text-align: left" style="color:greenyellow">1</td>
       <td style="text-align: left" style="color:greenyellow">18 septembre</td>
-      <td style="text-align: left" style="color:greenyellow">internet, une infrastructure sociotechnique</td>
+      <td style="text-align: left" style="color:greenyellow"><a href="/cultnum/cours1">internet, une infrastructure sociotechnique</a></td>
     </tr>
     <tr>
       <td style="text-align: left" style="color:greenyellow">2</td>
       <td style="text-align: left" style="color:greenyellow">25 septembre</td>
-      <td style="text-align: left" style="color:greenyellow">sociologie du lien hypertexte</td>
+      <td style="text-align: left" style="color:greenyellow"><a href="/cultnum/cours2">sociologie du lien hypertexte</a></td>
     </tr>
     <tr>
       <td style="text-align: left" style="color:greenyellow">3</td>
       <td style="text-align: left" style="color:greenyellow">2 octobre</td>
-      <td style="text-align: left" style="color:greenyellow">des états gafam ? économie politique des plateformes</td>
+      <td style="text-align: left" style="color:greenyellow"><a href="/cultnum/cours3">des états gafam ? économie politique des plateformes</a></td>
     </tr>
     <tr>
       <td style="text-align: left">4</td>
