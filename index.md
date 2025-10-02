@@ -35,9 +35,9 @@
       <td style="text-align: left" style="color:greenyellow">sociologie du lien hypertexte</td>
     </tr>
     <tr>
-      <td style="text-align: left" style="fontweight:bold">3</td>
-      <td style="text-align: left" style="fontweight:bold">2 octobre</td>
-      <td style="text-align: left" style="fontweight:bold">des états gafam ? économie politique des plateformes</td>
+      <td style="text-align: left"><bold>3</bold></td>
+      <td style="text-align: left"><bold>2 octobre</bold></td>
+      <td style="text-align: left"><bold>des états gafam ? économie politique des plateformes</bold></td>
     </tr>
     <tr>
       <td style="text-align: left">4</td>
