@@ -146,20 +146,15 @@ h1, h2, h3, h4, h5, h6 {
 
 a {
 }
-
 a:link {
   color: $conifer;
 }
-
 a:visited {
 }
-
 a:focus {
 }
-
 a:hover {
 }
-
 a:active {
 }
 
@@ -263,7 +258,7 @@ hr {
 */
 
 a {
-  color: #63c0f5;
+  color: $conifer;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
