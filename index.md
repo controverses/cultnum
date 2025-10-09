@@ -40,9 +40,9 @@
       <td style="text-align: left" style="color:#b5e853"><a href="/cultnum/cours3">des états gafam ? économie politique des plateformes</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">4 |</td>
-      <td style="text-align: left">9 octobre</td>
-      <td style="text-align: left">penser le <i>digital labor</i></td>
+      <td style="text-align: left" style="color:#b5e853">4 |</td>
+      <td style="text-align: left" style="color:#b5e853">9 octobre</td>
+      <td style="text-align: left" style="color:#b5e853"><a href="/cultnum/cours4">penser le digital labor</a></td>
     </tr>
     <tr>
       <td style="text-align: left">5 |</td>
