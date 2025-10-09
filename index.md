@@ -42,7 +42,7 @@
     <tr>
       <td style="text-align: left" style="color:#b5e853">4 |</td>
       <td style="text-align: left" style="color:#b5e853">9 octobre</td>
-      <td style="text-align: left" style="color:#b5e853"><a href="/cultnum/cours4">penser le digital labor</a></td>
+      <td style="text-align: left" style="color:#b5e853"><a href="/cultnum/cours4">repenser le digital labor</a></td>
     </tr>
     <tr>
       <td style="text-align: left">5 |</td>
