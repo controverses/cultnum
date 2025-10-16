@@ -45,9 +45,9 @@
       <td style="text-align: left" style="color:#b5e853"><a href="/cultnum/cours4">repenser le digital labor</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">5 |</td>
-      <td style="text-align: left">16 octobre</td>
-      <td style="text-align: left">visions algorithmiques du monde</td>
+      <td style="text-align: left" style="color:#b5e853">5 |</td>
+      <td style="text-align: left" style="color:#b5e853">16 octobre</td>
+      <td style="text-align: left" style="color:#b5e853"><a href="/cultnum/cours5">visions algorithmiques du monde</a></td>
     </tr>
     <tr>
       <td style="text-align: left">6 |</td>
