@@ -51,17 +51,17 @@
     </tr>
     <tr>
       <td style="text-align: left">6 |</td>
-      <td style="text-align: left">23 octobre</td>
+      <td style="text-align: left">6 novembre</td>
       <td style="text-align: left">actualité des controverses de l'ia</td>
     </tr>
     <tr>
       <td style="text-align: left">7 |</td>
-      <td style="text-align: left">6 novembre</td>
+      <td style="text-align: left">13 novembre</td>
       <td style="text-align: left">en marge : les exclu·es du numérique</td>
     </tr>
     <tr>
       <td style="text-align: left">8 |</td>
-      <td style="text-align: left">13 novembre</td>
+      <td style="text-align: left">27 novembre</td>
       <td style="text-align: left">salut la commu ! créateur·ices, contenus et cultures</td>
     </tr>
   </tbody>
