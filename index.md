@@ -55,9 +55,9 @@
       <td style="text-align: left" style="color:#b5e853"><a href="/cultnum/cours6">actualité des controverses de l'ia</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">7 |</td>
-      <td style="text-align: left">13 novembre</td>
-      <td style="text-align: left">en marge : les exclu·es du numérique</td>
+      <td style="text-align: left" style="color:#b5e853">7 |</td>
+      <td style="text-align: left" style="color:#b5e853">13 novembre</td>
+      <td style="text-align: left" style="color:#b5e853"><a href="/cultnum/cours7">en marge : les exclu·es du numérique</a></td>
     </tr>
     <tr>
       <td style="text-align: left">8 |</td>
