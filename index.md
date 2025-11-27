@@ -60,13 +60,13 @@
       <td style="text-align: left" style="color:#b5e853"><a href="/cultnum/cours7">en marge : les exclu·es du numérique</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">8 |</td>
-      <td style="text-align: left">27 novembre</td>
-      <td style="text-align: left">salut la commu ! créateur·ices, contenus et cultures</td>
+      <td style="text-align: left" style="color:#b5e853">>8 |</td>
+      <td style="text-align: left" style="color:#b5e853">>27 novembre</td>
+      <td style="text-align: left" style="color:#b5e853"><a href="/cultnum/cours8">salut la commu ! créateur·ices, contenus et cultures</td>
     </tr>
   </tbody>
 </table>
 
 <h1>évaluation |</h1>
 
-<p>l'évaluation prendra la forme d'un examen final sur table de trois heures et consistera en une description sociotechnique d'un corpus documentaire consacré à un enjeu numérique, en mobilisant des notions du cours magistral ; les notes manuscrites ou imprimées sont autorisées</p>
+<p>l'évaluation prendra la forme d'un examen final sur table de trois heures et consistera en une description sociotechnique d'un corpus documentaire consacré à un enjeu numérique, en mobilisant des notions du cours magistral, plus une question de cours; les notes manuscrites ou imprimées sont autorisées; vous pouvez composer en français ou en anglais</p>
