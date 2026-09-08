@@ -26,43 +26,43 @@
   <tbody>
     <tr>
       <td style="text-align: left" style="color:#b5e853">1 |</td>
-      <td style="text-align: left" style="color:#b5e853">18 septembre</td>
-      <td style="text-align: left" style="color:#b5e853"><a href="/cultnum/cours1">internet, une infrastructure sociotechnique</a></td>
+      <td style="text-align: left" style="color:#b5e853">10 septembre</td>
+      <td style="text-align: left" style="color:#b5e853">internet, une infrastructure sociotechnique</td>
     </tr>
     <tr>
       <td style="text-align: left">2 |</td>
-      <td style="text-align: left">25 septembre</td>
+      <td style="text-align: left">17 septembre</td>
       <td style="text-align: left">sociologie du lien hypertexte</td>
     </tr>
     <tr>
-      <td style="text-align: left" style="color:#b5e853">3 |</td>
-      <td style="text-align: left" style="color:#b5e853">2 octobre</td>
-      <td style="text-align: left" style="color:#b5e853">des états gafam ? économie politique des plateformes</td>
+      <td style="text-align: left">3 |</td>
+      <td style="text-align: left">1er octobre</td>
+      <td style="text-align: left">des états gafam ? économie politique des plateformes</td>
     </tr>
     <tr>
-      <td style="text-align: left" style="color:#b5e853">4 |</td>
-      <td style="text-align: left" style="color:#b5e853">9 octobre</td>
-      <td style="text-align: left" style="color:#b5e853"><a href="/cultnum/cours4">repenser le digital labor</a></td>
+      <td style="text-align: left">4 |</td>
+      <td style="text-align: left">15 octobre</td>
+      <td style="text-align: left">repenser le digital labor</td>
     </tr>
     <tr>
-      <td style="text-align: left" style="color:#b5e853">5 |</td>
-      <td style="text-align: left" style="color:#b5e853">16 octobre</td>
-      <td style="text-align: left" style="color:#b5e853"><a href="/cultnum/cours5">visions algorithmiques du monde</a></td>
+      <td style="text-align: left">5 |</td>
+      <td style="text-align: left">22 octobre</td>
+      <td style="text-align: left">visions algorithmiques du monde</td>
     </tr>
     <tr>
-      <td style="text-align: left" style="color:#b5e853">6 |</td>
-      <td style="text-align: left" style="color:#b5e853">6 novembre</td>
-      <td style="text-align: left" style="color:#b5e853"><a href="/cultnum/cours6">actualité des controverses de l'ia</a></td>
+      <td style="text-align: left">6 |</td>
+      <td style="text-align: left">5 novembre</td>
+      <td style="text-align: left">actualité des controverses de l'ia</td>
     </tr>
     <tr>
-      <td style="text-align: left" style="color:#b5e853">7 |</td>
-      <td style="text-align: left" style="color:#b5e853">13 novembre</td>
-      <td style="text-align: left" style="color:#b5e853"><a href="/cultnum/cours7">en marge : les exclu·es du numérique</a></td>
+      <td style="text-align: left">7 |</td>
+      <td style="text-align: left">12 novembre</td>
+      <td style="text-align: left">en marge : les exclu·es du numérique</td>
     </tr>
     <tr>
-      <td style="text-align: left" style="color:#b5e853">8 |</td>
-      <td style="text-align: left" style="color:#b5e853">27 novembre</td>
-      <td style="text-align: left" style="color:#b5e853"><a href="/cultnum/cours8">salut la commu ! créateur·ices, contenus et cultures</a></td>
+      <td style="text-align: left">8 |</td>
+      <td style="text-align: left">26 novembre</td>
+      <td style="text-align: left">salut la commu ! créateur·ices, contenus et cultures</td>
     </tr>
   </tbody>
 </table>
