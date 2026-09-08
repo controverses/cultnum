@@ -30,14 +30,14 @@
       <td style="text-align: left" style="color:#b5e853"><a href="/cultnum/cours1">internet, une infrastructure sociotechnique</a></td>
     </tr>
     <tr>
-      <td style="text-align: left" style="color:#b5e853">2 |</td>
-      <td style="text-align: left" style="color:#b5e853">25 septembre</td>
-      <td style="text-align: left" style="color:#b5e853"><a href="/cultnum/cours2">sociologie du lien hypertexte</a></td>
+      <td style="text-align: left">2 |</td>
+      <td style="text-align: left">25 septembre</td>
+      <td style="text-align: left">sociologie du lien hypertexte</td>
     </tr>
     <tr>
       <td style="text-align: left" style="color:#b5e853">3 |</td>
       <td style="text-align: left" style="color:#b5e853">2 octobre</td>
-      <td style="text-align: left" style="color:#b5e853"><a href="/cultnum/cours3">des états gafam ? économie politique des plateformes</a></td>
+      <td style="text-align: left" style="color:#b5e853">des états gafam ? économie politique des plateformes</td>
     </tr>
     <tr>
       <td style="text-align: left" style="color:#b5e853">4 |</td>
