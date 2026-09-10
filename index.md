@@ -27,7 +27,7 @@
     <tr>
       <td style="text-align: left" style="color:#b5e853">1 |</td>
       <td style="text-align: left" style="color:#b5e853">10 septembre</td>
-      <td style="text-align: left" style="color:#b5e853"><a href="./media/cours1.pdf">internet, une infrastructure sociotechnique</a></td>
+      <td style="text-align: left" style="color:#b5e853"><a href="./cours1">internet, une infrastructure sociotechnique</a></td>
     </tr>
     <tr>
       <td style="text-align: left">2 |</td>
