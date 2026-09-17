@@ -32,7 +32,7 @@
     <tr>
       <td style="text-align: left" style="color:#b5e853">2 |</td>
       <td style="text-align: left" style="color:#b5e853">17 septembre</td>
-      <td style="text-align: left" style="color:#b5e853">sociologie du lien hypertexte</td>
+      <td style="text-align: left" style="color:#b5e853"><a href="./cours2">sociologie du lien hypertexte</a></td>
     </tr>
     <tr>
       <td style="text-align: left">3 |</td>
