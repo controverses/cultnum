@@ -45,9 +45,9 @@
       <td style="text-align: left" style="color:#b5e853"><a href="./cours4">repenser le digital labor</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">5 |</td>
-      <td style="text-align: left">22 octobre</td>
-      <td style="text-align: left">visions algorithmiques du monde</td>
+      <td style="text-align: left" style="color:#b5e853">5 |</td>
+      <td style="text-align: left" style="color:#b5e853">22 octobre</td>
+      <td style="text-align: left" style="color:#b5e853">visions algorithmiques du monde</td>
     </tr>
     <tr>
       <td style="text-align: left">6 |</td>
