@@ -47,7 +47,7 @@
     <tr>
       <td style="text-align: left" style="color:#b5e853">5 |</td>
       <td style="text-align: left" style="color:#b5e853">22 octobre</td>
-      <td style="text-align: left" style="color:#b5e853">visions algorithmiques du monde</td>
+      <td style="text-align: left" style="color:#b5e853"><a href="./cours5">visions algorithmiques du monde</a></td>
     </tr>
     <tr>
       <td style="text-align: left">6 |</td>
