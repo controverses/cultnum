@@ -50,9 +50,9 @@
       <td style="text-align: left" style="color:#b5e853"><a href="./cours5">visions algorithmiques du monde</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">6 |</td>
-      <td style="text-align: left">5 novembre</td>
-      <td style="text-align: left">actualité des controverses de l'ia</td>
+      <td style="text-align: left" style="color:#b5e853">6 |</td>
+      <td style="text-align: left" style="color:#b5e853">5 novembre</td>
+      <td style="text-align: left" style="color:#b5e853"><a href="./cours6">actualité des controverses de l'ia</a></td>
     </tr>
     <tr>
       <td style="text-align: left">7 |</td>
