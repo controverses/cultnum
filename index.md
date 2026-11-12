@@ -57,7 +57,7 @@
     <tr>
       <td style="text-align: left" style="color:#b5e853">7 |</td>
       <td style="text-align: left" style="color:#b5e853">12 novembre</td>
-      <td style="text-align: left" style="color:#b5e853">en marge : les exclu·es du numérique</td>
+      <td style="text-align: left" style="color:#b5e853"><a href="./cours7">en marge : les exclu·es du numérique</a></td>
     </tr>
     <tr>
       <td style="text-align: left">8 |</td>
