@@ -60,9 +60,9 @@
       <td style="text-align: left" style="color:#b5e853"><a href="./cours7">en marge : les exclu·es du numérique</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">8 |</td>
-      <td style="text-align: left">26 novembre</td>
-      <td style="text-align: left">salut la commu ! créateur·ices, contenus et cultures</td>
+      <td style="text-align: left" style="color:#b5e853">8 |</td>
+      <td style="text-align: left" style="color:#b5e853">26 novembre</td>
+      <td style="text-align: left" style="color:#b5e853">salut la commu ! créateur·ices, contenus et cultures</td>
     </tr>
   </tbody>
 </table>
